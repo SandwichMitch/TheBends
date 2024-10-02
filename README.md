@@ -1,6 +1,6 @@
 # FINAL PROJECT - "THE BENDS"
 ## REQUIREMENTS
-Download TheBends.gba and open with a GameBoy Advance Emulator
+Download TheBends.gba and open with a GameBoy Advance Emulator. Download also available at: https://sandwichmitch.itch.io/the-bends
 
 ## CONTROLS
 - Start: start the game
