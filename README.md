@@ -1,4 +1,7 @@
 # FINAL PROJECT - "THE BENDS"
+## REQUIREMENTS
+Download TheBends.gba and open with a GameBoy Advance Emulator
+
 ## CONTROLS
 - Start: start the game
 - Start: (when in game) pause/unpause the game
